@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://dvatri.vercel.app/"
 languageCode = "en"
 title = "Dvatri"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34926611940"
 email = "spraly@email.com"
 location = "13200 Manzanares, Cdad. Real, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://dvatri.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
